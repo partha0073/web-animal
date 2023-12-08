@@ -1,0 +1,38 @@
+.logo{
+    border-radius: 50%;
+}
+header{
+    background-image: url('./asset/lion-bg.jpg');   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    color: aliceblue;
+    position: relative;
+    
+}
+.center-box{
+    position: absolute;
+    color: aliceblue;
+    height: 100%;
+    width: 100%;
+   
+}
+/* .card-box img{
+    width: 150px;
+} */
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    overflow: hidden;
+    padding: 25px;
+    
+    
+
+}
+
+
+
+.card :hover{
+    transform: scale(1.15);
+}
