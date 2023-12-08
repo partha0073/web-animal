@@ -22,12 +22,7 @@ header{
     width: 150px;
 } */
 .card{
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-<<<<<<< HEAD
- 
-=======
-  
->>>>>>> 332f77f1ed9e028de03d3dc7bf5cdcf4f344f8d8
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
     overflow: hidden;
     padding: 25px;
     
@@ -39,11 +34,7 @@ header{
 
 .card :hover{
     transform: scale(1.15);
-<<<<<<< HEAD
     transition: 0.3s;
 }
-=======
-      transition: 0.3s;
-    
-}
->>>>>>> 332f77f1ed9e028de03d3dc7bf5cdcf4f344f8d8
+
+
